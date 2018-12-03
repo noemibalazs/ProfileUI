@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Profile UI</string>
+    <string name="show">show</string>
+    <string name="git_numbers">22</string>
+    <string name="github">GitHub</string>
+    <string name="project_number">1</string>
+    <string name="play_store">GooglePlayStore</string>
+    <string name="story">Even the longest and most difficult ventures have a starting point. My journey of a thousand miles had begins with a scholarship from Google, my passion and my devotion led me to reach my first desire to become an Udacity certified android developer, but my fundamental goal is to become a well-crafted android developer.</string>
+</resources>
