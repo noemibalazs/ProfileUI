@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Profile UI</string>
     <string name="show">show</string>
-    <string name="git_numbers">22</string>
+    <string name="git_numbers">25</string>
     <string name="github">GitHub</string>
     <string name="project_number">1</string>
     <string name="play_store">GooglePlayStore</string>
