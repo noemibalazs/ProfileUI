@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent(Intent.ACTION_VIEW);
-                intent.setData(Uri.parse("https://t2m.io/umL6Xxrz"));
+                intent.setData(Uri.parse("https://play.google.com/store/apps/developer?id=Bal%C3%A1zs+No%C3%A9mi"));
                 if (intent.resolveActivity(getPackageManager())!=null){
                     startActivity(intent);
                 }
